@@ -194,6 +194,7 @@ print("\nReal-Time Face Detection Ended.")
 
 ### Real-time Face Detection:
 <br>
+<img width="796" height="637" alt="image" src="https://github.com/user-attachments/assets/39a0bcca-f554-4190-8406-cd59850ffec2" />
 
 
 ## Result 
